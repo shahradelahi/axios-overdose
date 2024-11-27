@@ -26,8 +26,8 @@ importers:
         specifier: ^4.4.0
         version: 4.4.0(prettier@3.3.3)
       '@sindresorhus/tsconfig':
-        specifier: ^6.0.0
-        version: 6.0.0
+        specifier: ^7.0.0
+        version: 7.0.0
       '@types/node':
         specifier: ^22.9.0
         version: 22.9.0
@@ -345,8 +345,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@sindresorhus/tsconfig@6.0.0':
-    resolution: {integrity: sha512-+fUdfuDd/7O2OZ9/UvJy76IEWn2Tpvm2l+rwUoS2Yz4jCUTSNOQQv2PLWrwekt8cPLwHmpHaBpay34bkBmVl2Q==}
+  '@sindresorhus/tsconfig@7.0.0':
+    resolution: {integrity: sha512-i5K04hLAP44Af16zmDjG07E1NHuDgCM07SJAT4gY0LZSRrWYzwt4qkLem6TIbIVh0k51RkN2bF+lP+lM5eC9fw==}
     engines: {node: '>=18'}
 
   '@types/estree@1.0.6':
@@ -971,7 +971,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.25.0':
     optional: true
 
-  '@sindresorhus/tsconfig@6.0.0': {}
+  '@sindresorhus/tsconfig@7.0.0': {}
 
   '@types/estree@1.0.6': {}
 
