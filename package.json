@@ -43,7 +43,7 @@
     "@types/node": "^22.9.0",
     "prettier": "^3.3.3",
     "tsup": "^8.3.5",
-    "typescript": "^5.6.3"
+    "typescript": "^7.0.0"
   },
   "optionalDependencies": {
     "hpagent": "^1.2.0"
